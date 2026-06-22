@@ -24,14 +24,13 @@ This project was inspired by the Coursera course **"COVID-19 Data Analysis Using
 ## Project Structure
 
 covid19-analysis/
-│
-├── covid19_analysis.ipynb
+├── covid19 data analysis notebook.ipynb
+├── LICENSE
 ├── README.md
 ├── requirements.txt
-│
-├── datasets/
-│   ├── time_series_covid19_confirmed_global.csv
-│   └── world_happiness_2019.csv
+└── datasets/
+    ├── covid19_Confirmed_dataset.csv
+    └── world_happiness_report.csv
 
 ---
 ## Workflow
