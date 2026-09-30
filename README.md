@@ -35,6 +35,23 @@ This project was inspired by the Coursera course **"COVID-19 Data Analysis Using
 
 ---
 
+## Analysis Workflow
+
+The diagram outlines COVID-19 data cleaning and aggregation,
+maximum infection rate calculation, and processing of happiness
+indicators. The datasets are merged by country for correlation
+analysis and visualization.
+
+<p align="center">
+  <img src="covid19-analysis-workflow.png"
+       alt="COVID-19 and happiness indicators analysis workflow"
+       width="500">
+</p>
+
+[View full-size diagram](covid19-analysis-workflow.png)
+
+---
+
 ## Key Insights
 
 - Countries with higher GDP per capita show weak/moderate correlation with infection rates
